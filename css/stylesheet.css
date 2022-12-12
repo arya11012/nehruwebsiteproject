@@ -1,0 +1,265 @@
+.Rectangle2{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+width: 1572px;
+height: 81px;
+background: #011627;
+}
+.logo1{
+    position: absolute;
+left: 1.52%;
+right: 94.88%;
+top: 18.52%;
+bottom: 18.52%;
+width: 56.61px;
+height: 51px;
+
+background: url(download\ \(2\)\ 1.png);
+}
+.NehruHallOfResidence{
+    position: absolute;
+left: 6.51%;
+right: 69.53%;
+top: 25.93%;
+bottom: 27.16%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.Rectangle55{
+    position: absolute;
+width: 1572px;
+height: 831px;
+left: 0px;
+top: 78px;
+
+background: #000000;
+opacity: 0.48;
+}
+.Rectangle56{
+    position: absolute;
+    width: 1196px;
+    height: 667px;
+    left: 188px;
+    top: 161px;
+    
+    background: #E0E6FD;
+    border-radius: 25px;
+}
+.logo2{
+    position: absolute;
+    left: 14.89%;
+    right: 79.83%;
+    top: 25%;
+    bottom: 70.85%;
+    
+    
+width: 83px;
+height: 76px;
+
+background: url(download\ \(2\)\ 2.png);
+}
+.LOGIN{
+    position: absolute;
+width: 284px;
+height: 75px;
+left: 644px;
+top: 227px;
+
+font-family: 'Elephant';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.Emailaddress{
+    position: absolute;
+
+right: 40%;
+
+bottom: 49.11%;
+width: 525px;
+height: 57px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.emaillogo{
+    position: absolute;
+left: 29.85%;
+
+top: 20%;
+
+width:28.81px ;
+height: 33px;
+
+background: url(4812397\ 1.png);
+}
+.Email{
+    box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 25.1%;
+top: 85.89%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+width: 925px;
+height: 55px;
+}
+.Password{
+
+    position: absolute;
+    left: 26%;
+    right: 57.49%;
+    top: 60%;
+    bottom: 49.11%;
+    width:525px ;
+    height:57px ;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.Passwordlogo{
+    position: absolute;
+left: 20.96%;
+right: 80.85%;
+top: 22.5%;
+bottom: 62.5%;
+width: 27px;
+height:28px ;
+
+background: url(140-1407340_lock-icon-clipart-png-download-white-login-password\ 1.png);
+
+}
+.PasswordInput{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: -1%;
+    right: 25.1%;
+    top: 80.89%;
+    bottom: 0%;
+    height:55px ;
+    width: 925px;
+    
+    background: #FDFFFC;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.Position{
+    position: absolute;
+    left: 26%;
+    right: 57.49%;
+    top: 76.5%;
+    bottom: 49.11%;
+    width: 525px;
+    height:57px ;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.Positionlogo{
+    position: absolute;
+left: 17%;
+right: 89.23%;
+top: 15.82%;
+bottom: 58.69%;
+width:33px ;
+height: 35.27px;
+
+background: url(free-user-icon-3296-thumb\ 1.png);
+
+}
+.PositionInput{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: -1%;
+    right: 25.1%;
+    top: 85.89%;
+    bottom: 0%;
+    width:925px ;
+    height:55px ;
+    
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.btncontainer{
+    position: absolute;
+left: 43.5%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+width:160px ;
+height:65px ;
+
+background: #2622EC;
+border-radius: 40px;
+border-color: #2622EC;
+
+}
+.btn{
+    position: absolute;
+left: 29.38%;
+right: 28.75%;
+top: 27.69%;
+bottom: 26.15%;
+background-color: #2622EC;
+border:#2622EC;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+width: 67px;
+height: 30px;
+}
